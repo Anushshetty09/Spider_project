@@ -1,4 +1,5 @@
-![Screenshot_19-9-2024_224651_www canva com](https://github.com/user-attachments/assets/f5638cef-5b74-40b4-96e8-1ee66a61e567)
+#Spider Robot Project
+This repository contains the code, designs, and documentation for a Spider Robot. The project involves building a multi-legged robotic platform that mimics the movement of a spider, with the ability to walk, navigate, and interact with its environment.
 
 
 
